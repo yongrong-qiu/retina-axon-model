@@ -2,7 +2,7 @@
 
 **Paper:** *The functional organization of retinal input to the mouse superior colliculus*
 **Authors:** Katrin Franke et al.
-**Journal submission:** Cell Press multi-journal (Neuron / Cell Reports / Current Biology)
+**Journal submission:** bioRxiv
 
 ---
 

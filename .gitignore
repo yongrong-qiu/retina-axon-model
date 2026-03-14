@@ -26,6 +26,11 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+# Large data file
+Analyses/Digital_twin_model/data/franke_lab/
+# Dependencies
+Analyses/Digital_twin_model/src/
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.

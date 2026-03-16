@@ -24,6 +24,7 @@ This repository accompanies the paper and contains two main components:
 retina-axon-model/
 ├── models/                         # Trained digital twin model weights and metadata
 └── Analyses/
+    ├── Digital_twin_model/         # Digital twin model training & analysis
     ├── Clustering/                 # RGC type clustering & functional diversity analyses
     ├── Aligning_exVivo_inVivo/     # Alignment of in vivo SC bouton responses with
     │                               #   ex vivo mouse retinal datasets
@@ -52,7 +53,7 @@ The `models/` folder contains released model weights for *in silico* experiments
 Analysis code is organized into subfolders that mirror the figures in the paper. Each subfolder contains Jupyter notebooks and/or Python scripts.
 
 ### `Analyses/Digital_twin_model/`
-Functional digital twin model of retinal axons.
+Functional digital twin model of retinal axons. The code shows how to train the model and the analysis shows that our high-performance model captures anatomical structure and generalized across stimulus domains.
 
 ### `Analyses/Clustering/`
 Functional clustering of RGC response types recorded across superficial SC layers. Analyses characterize the near-complete sampling of RGC functional diversity received by the SC and assess how response types are distributed relative to known *ex vivo* retinal cell-type atlases.

@@ -14,7 +14,7 @@ This repository accompanies the paper and contains two main components:
 
 2. **Analyses** — notebooks and scripts for analyses performed both on digital twin model outputs and on directly recorded responses to parametric stimuli. The folder structure mirrors the figures in the paper (see [Analyses](#analyses) below).
 
-> **Data availability:** Experimental data (calcium imaging recordings, retinal datasets) are stored externally. Links to the data will be provided here upon publication.
+> **Data availability:** Experimental data (calcium imaging recordings, retinal datasets) are stored externally. Links to the data will be provided here upon publication. The data for training the digital twin model is available from [here](https://huggingface.co/datasets/open-retina/open-retina/tree/main/franke_lab/qiu_2026).
 
 ---
 
@@ -53,7 +53,7 @@ The `models/` folder contains released model weights for *in silico* experiments
 Analysis code is organized into subfolders that mirror the figures in the paper. Each subfolder contains Jupyter notebooks and/or Python scripts.
 
 ### `Analyses/Digital_twin_model/`
-Functional digital twin model of retinal axons. The code shows how to train the model and the analysis shows that our high-performance model captures anatomical structure and generalized across stimulus domains.
+Functional digital twin model of retinal axons. The code shows how to train the model and the analysis shows that our high-performance model captures anatomical structure and generalizes across stimulus domains.
 
 ### `Analyses/Clustering/`
 Functional clustering of RGC response types recorded across superficial SC layers. Analyses characterize the near-complete sampling of RGC functional diversity received by the SC and assess how response types are distributed relative to known *ex vivo* retinal cell-type atlases.

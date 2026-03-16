@@ -44,7 +44,7 @@ The `models/` folder contains released model weights for *in silico* experiments
 | `data_retina_sc_multiple_v4a_fluor_model_fac3d_seed_111_v3aa.pt` | Base model |
 | `data_retina_sc_multiple_v4a_fluor_meta_info.pkl` | Metadata for the base model |
 
-**Quick start with Google Colab:** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k9411tLWNcDlUX7nYDsU_grMwafiI3qw?usp=sharing)
+**Quick start with Google Colab:** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k9411tLWNcDlUX7nYDsU_grMwafiI3qw?usp=sharing), or with source [code](https://github.com/yongrong-qiu/retina-axon-model/blob/main/Analyses/Digital_twin_model/start-data-model.ipynb).
 
 ---
 

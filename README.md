@@ -51,6 +51,9 @@ The `models/` folder contains released model weights for *in silico* experiments
 
 Analysis code is organized into subfolders that mirror the figures in the paper. Each subfolder contains Jupyter notebooks and/or Python scripts.
 
+### `Analyses/Digital_twin_model/`
+Functional digital twin model of retinal axons.
+
 ### `Analyses/Clustering/`
 Functional clustering of RGC response types recorded across superficial SC layers. Analyses characterize the near-complete sampling of RGC functional diversity received by the SC and assess how response types are distributed relative to known *ex vivo* retinal cell-type atlases.
 

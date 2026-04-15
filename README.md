@@ -14,7 +14,7 @@ This repository accompanies the paper and contains two main components:
 
 2. **Analyses** — notebooks and scripts for analyses performed both on digital twin model outputs and on directly recorded responses to parametric stimuli. The folder structure mirrors the figures in the paper (see [Analyses](#analyses) below).
 
-> **Data availability:** Experimental data (calcium imaging recordings, retinal datasets) are stored externally. Links to the data will be provided here upon publication. The data for training the digital twin model is available from [here](https://huggingface.co/datasets/open-retina/open-retina/tree/main/franke_lab/qiu_2026).
+> **Data availability:** Experimental data (calcium imaging recordings, retinal datasets) are stored [here](https://doi.org/10.5281/zenodo.19041318). Links to the data will be provided here upon publication. The data for training the digital twin model is available from [here](https://huggingface.co/datasets/open-retina/open-retina/tree/main/franke_lab/qiu_2026).
 
 ---
 
